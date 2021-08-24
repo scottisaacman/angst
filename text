@@ -15,6 +15,7 @@
 			h3 {color: blue}
 			h4 {color: blue}
 			p {color: blue; font-family: courier; font-size: 20px;}
+			footer {color: black}
 	  </style>
     <script src="/script.js"></script>
   </head>
